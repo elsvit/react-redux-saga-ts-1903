@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "src/*": ["./*"],
+      "components/*": ["./components/*"],
+      "constants/*": ["./constants/*"],
+      "resources/*": ["./resources/*"],
+      "services/*": ["./services/*"],
+      "store/*": ["./store/*"],
+      "styles/*": ["./styles/*"],
+      "types/*": ["./types/*"],
+      "scss-vars": ["./styles/__shared__/shared/scss"]
+    }
+  }
+}

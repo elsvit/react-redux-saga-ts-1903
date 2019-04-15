@@ -1,0 +1,217 @@
+{
+    "info": {
+        "name": "Thai-Huong-Snack",
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/bff5ecc1c66f9f08b244f33600d121a15d59e54e_200.png",
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "accepts_cash"
+        ],
+        "categories": [
+            "pizza-pasta",
+            "schnitzel-steaks",
+            "vegetarisch"
+        ]
+    },
+    "general": {
+        "owner": "Herr Superman",
+        "managingDirectors": "",
+        "companyName": "Super Company",
+        "description": "",
+        "invoiceAddress": "Potsdamer Straße, 10785 Berlin"
+    },
+    "offers": {},
+    "sections": [
+        {
+            "id": 360331,
+            "name": "Section #1",
+            "items": [
+                {
+                    "id": 753979,
+                    "name": "Item 101",
+                    "price": 37.2,
+                    "description": "Awesome Item #101",
+                    "picture": ""
+                },
+                {
+                    "id": 590422,
+                    "name": "Item 102",
+                    "price": 11.7,
+                    "description": "Awesome Item #102",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 979220,
+            "name": "Section #2",
+            "items": [
+                {
+                    "id": 384050,
+                    "name": "Item 201",
+                    "price": 30.5,
+                    "description": "Awesome Item #201",
+                    "picture": ""
+                },
+                {
+                    "id": 94062,
+                    "name": "Item 202",
+                    "price": 12.7,
+                    "description": "Awesome Item #202",
+                    "picture": ""
+                },
+                {
+                    "id": 716868,
+                    "name": "Item 203",
+                    "price": 26.3,
+                    "description": "Awesome Item #203",
+                    "picture": ""
+                },
+                {
+                    "id": 422029,
+                    "name": "Item 204",
+                    "price": 13.9,
+                    "description": "Awesome Item #204",
+                    "picture": ""
+                },
+                {
+                    "id": 652237,
+                    "name": "Item 205",
+                    "price": 26.3,
+                    "description": "Awesome Item #205",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 450666,
+            "name": "Section #3",
+            "items": [
+                {
+                    "id": 685286,
+                    "name": "Item 301",
+                    "price": 32.6,
+                    "description": "Awesome Item #301",
+                    "picture": ""
+                },
+                {
+                    "id": 609115,
+                    "name": "Item 302",
+                    "price": 30.8,
+                    "description": "Awesome Item #302",
+                    "picture": ""
+                },
+                {
+                    "id": 644665,
+                    "name": "Item 303",
+                    "price": 33,
+                    "description": "Awesome Item #303",
+                    "picture": ""
+                },
+                {
+                    "id": 113009,
+                    "name": "Item 304",
+                    "price": 17.7,
+                    "description": "Awesome Item #304",
+                    "picture": ""
+                },
+                {
+                    "id": 394132,
+                    "name": "Item 305",
+                    "price": 39.9,
+                    "description": "Awesome Item #305",
+                    "picture": ""
+                },
+                {
+                    "id": 37705,
+                    "name": "Item 306",
+                    "price": 13.1,
+                    "description": "Awesome Item #306",
+                    "picture": ""
+                },
+                {
+                    "id": 119362,
+                    "name": "Item 307",
+                    "price": 35,
+                    "description": "Awesome Item #307",
+                    "picture": ""
+                }
+            ]
+        }
+    ],
+    "rating": {
+        "average": 4.56,
+        "star1": 70,
+        "star2": 49,
+        "star3": 75,
+        "star4": 204,
+        "star5": 1370
+    },
+    "status": "open",
+    "openingTimes": [
+        {
+            "start": "09:30",
+            "end": "14:45"
+        },
+        {
+            "start": "18:30",
+            "end": "21:45"
+        }
+    ],
+    "minOrderValue": 15,
+    "delivery": {
+        "status": "delivers",
+        "fee": {
+            "threshold": 0,
+            "amount": 0,
+            "applyAlways": true
+        }
+    },
+    "paymentMethods": [
+        {
+            "id": "0",
+            "name": "cash"
+        },
+        {
+            "id": "1",
+            "name": "paypal"
+        },
+        {
+            "id": "2",
+            "name": "credit"
+        },
+        {
+            "id": "3",
+            "name": "debit"
+        },
+        {
+            "id": "4",
+            "name": "paypal_fastlane"
+        }
+    ],
+    "address": {
+        "citySlug": "berlin",
+        "zipcodeSlug": "10785",
+        "streetName": "Potsdamer Straße",
+        "zipcode": "10785",
+        "phone": "+123412356",
+        "city": "Berlin",
+        "district": "Mitte",
+        "streetNumber": "123",
+        "country": "DE",
+        "districtSlug": "mitte",
+        "longitude": 13.36298,
+        "latitude": 52.50064,
+        "state": ""
+    },
+    "timezone": "Europe/Berlin",
+    "popularItemSection": {
+        "id": "popular_items",
+        "description": "",
+        "imageUrl": "https://images.deliveryhero.io/image/lieferheld.de/restaurant_default_cuisine_header/doner/9.jpg",
+        "name": "popular_items",
+        "items": []
+    }
+}

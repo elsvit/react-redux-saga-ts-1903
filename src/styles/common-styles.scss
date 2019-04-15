@@ -1,0 +1,9 @@
+@import 'variables';
+
+.reactLoadingWrapper {
+  width: 100%;
+
+  > div {
+    margin: $marginLg auto;
+  }
+}

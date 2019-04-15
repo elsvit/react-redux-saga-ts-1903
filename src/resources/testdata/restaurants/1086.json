@@ -1,0 +1,512 @@
+{
+    "info": {
+        "name": "Shiwa",
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/f16449ce1cb24e9d9496e16e6bb3eb0e8effbd74_200.png",
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "accepts_cash"
+        ],
+        "categories": [
+            "pizza-pasta",
+            "schnitzel-steaks",
+            "vegetarisch"
+        ]
+    },
+    "general": {
+        "owner": "Herr Superman",
+        "managingDirectors": "",
+        "companyName": "Super Company",
+        "description": "",
+        "invoiceAddress": "Potsdamer Straße, 10785 Berlin"
+    },
+    "offers": {},
+    "sections": [
+        {
+            "id": 932490,
+            "name": "Section #1",
+            "items": [
+                {
+                    "id": 619890,
+                    "name": "Item 101",
+                    "price": 24.6,
+                    "description": "Awesome Item #101",
+                    "picture": ""
+                },
+                {
+                    "id": 25115,
+                    "name": "Item 102",
+                    "price": 14.7,
+                    "description": "Awesome Item #102",
+                    "picture": ""
+                },
+                {
+                    "id": 146377,
+                    "name": "Item 103",
+                    "price": 34.5,
+                    "description": "Awesome Item #103",
+                    "picture": ""
+                },
+                {
+                    "id": 232154,
+                    "name": "Item 104",
+                    "price": 12,
+                    "description": "Awesome Item #104",
+                    "picture": ""
+                },
+                {
+                    "id": 512821,
+                    "name": "Item 105",
+                    "price": 24.6,
+                    "description": "Awesome Item #105",
+                    "picture": ""
+                },
+                {
+                    "id": 656059,
+                    "name": "Item 106",
+                    "price": 17.3,
+                    "description": "Awesome Item #106",
+                    "picture": ""
+                },
+                {
+                    "id": 489876,
+                    "name": "Item 107",
+                    "price": 14.8,
+                    "description": "Awesome Item #107",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 481536,
+            "name": "Section #2",
+            "items": [
+                {
+                    "id": 291502,
+                    "name": "Item 201",
+                    "price": 14.8,
+                    "description": "Awesome Item #201",
+                    "picture": ""
+                },
+                {
+                    "id": 903328,
+                    "name": "Item 202",
+                    "price": 16.4,
+                    "description": "Awesome Item #202",
+                    "picture": ""
+                },
+                {
+                    "id": 411266,
+                    "name": "Item 203",
+                    "price": 18,
+                    "description": "Awesome Item #203",
+                    "picture": ""
+                },
+                {
+                    "id": 947432,
+                    "name": "Item 204",
+                    "price": 28.5,
+                    "description": "Awesome Item #204",
+                    "picture": ""
+                },
+                {
+                    "id": 241275,
+                    "name": "Item 205",
+                    "price": 20.8,
+                    "description": "Awesome Item #205",
+                    "picture": ""
+                },
+                {
+                    "id": 207686,
+                    "name": "Item 206",
+                    "price": 15.9,
+                    "description": "Awesome Item #206",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 773298,
+            "name": "Section #3",
+            "items": [
+                {
+                    "id": 412106,
+                    "name": "Item 301",
+                    "price": 27.3,
+                    "description": "Awesome Item #301",
+                    "picture": ""
+                },
+                {
+                    "id": 651862,
+                    "name": "Item 302",
+                    "price": 31.8,
+                    "description": "Awesome Item #302",
+                    "picture": ""
+                },
+                {
+                    "id": 626821,
+                    "name": "Item 303",
+                    "price": 32.3,
+                    "description": "Awesome Item #303",
+                    "picture": ""
+                },
+                {
+                    "id": 477585,
+                    "name": "Item 304",
+                    "price": 23.8,
+                    "description": "Awesome Item #304",
+                    "picture": ""
+                },
+                {
+                    "id": 902071,
+                    "name": "Item 305",
+                    "price": 20.4,
+                    "description": "Awesome Item #305",
+                    "picture": ""
+                },
+                {
+                    "id": 218413,
+                    "name": "Item 306",
+                    "price": 18,
+                    "description": "Awesome Item #306",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 671537,
+            "name": "Section #4",
+            "items": [
+                {
+                    "id": 718962,
+                    "name": "Item 401",
+                    "price": 37.5,
+                    "description": "Awesome Item #401",
+                    "picture": ""
+                },
+                {
+                    "id": 100710,
+                    "name": "Item 402",
+                    "price": 27.7,
+                    "description": "Awesome Item #402",
+                    "picture": ""
+                },
+                {
+                    "id": 830783,
+                    "name": "Item 403",
+                    "price": 17.9,
+                    "description": "Awesome Item #403",
+                    "picture": ""
+                },
+                {
+                    "id": 795858,
+                    "name": "Item 404",
+                    "price": 38.9,
+                    "description": "Awesome Item #404",
+                    "picture": ""
+                },
+                {
+                    "id": 861565,
+                    "name": "Item 405",
+                    "price": 39.1,
+                    "description": "Awesome Item #405",
+                    "picture": ""
+                },
+                {
+                    "id": 839711,
+                    "name": "Item 406",
+                    "price": 10.2,
+                    "description": "Awesome Item #406",
+                    "picture": ""
+                },
+                {
+                    "id": 645393,
+                    "name": "Item 407",
+                    "price": 23.5,
+                    "description": "Awesome Item #407",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 351007,
+            "name": "Section #5",
+            "items": [
+                {
+                    "id": 589674,
+                    "name": "Item 501",
+                    "price": 11.8,
+                    "description": "Awesome Item #501",
+                    "picture": ""
+                },
+                {
+                    "id": 62816,
+                    "name": "Item 502",
+                    "price": 36.6,
+                    "description": "Awesome Item #502",
+                    "picture": ""
+                },
+                {
+                    "id": 461762,
+                    "name": "Item 503",
+                    "price": 18.3,
+                    "description": "Awesome Item #503",
+                    "picture": ""
+                },
+                {
+                    "id": 574135,
+                    "name": "Item 504",
+                    "price": 28.6,
+                    "description": "Awesome Item #504",
+                    "picture": ""
+                },
+                {
+                    "id": 849968,
+                    "name": "Item 505",
+                    "price": 38,
+                    "description": "Awesome Item #505",
+                    "picture": ""
+                },
+                {
+                    "id": 854394,
+                    "name": "Item 506",
+                    "price": 21.9,
+                    "description": "Awesome Item #506",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 117587,
+            "name": "Section #6",
+            "items": [
+                {
+                    "id": 736182,
+                    "name": "Item 601",
+                    "price": 34.1,
+                    "description": "Awesome Item #601",
+                    "picture": ""
+                },
+                {
+                    "id": 221027,
+                    "name": "Item 602",
+                    "price": 36.6,
+                    "description": "Awesome Item #602",
+                    "picture": ""
+                },
+                {
+                    "id": 467762,
+                    "name": "Item 603",
+                    "price": 29.7,
+                    "description": "Awesome Item #603",
+                    "picture": ""
+                },
+                {
+                    "id": 102838,
+                    "name": "Item 604",
+                    "price": 10.2,
+                    "description": "Awesome Item #604",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 288749,
+            "name": "Section #7",
+            "items": [
+                {
+                    "id": 864902,
+                    "name": "Item 701",
+                    "price": 20.6,
+                    "description": "Awesome Item #701",
+                    "picture": ""
+                },
+                {
+                    "id": 625966,
+                    "name": "Item 702",
+                    "price": 25,
+                    "description": "Awesome Item #702",
+                    "picture": ""
+                },
+                {
+                    "id": 300090,
+                    "name": "Item 703",
+                    "price": 17.6,
+                    "description": "Awesome Item #703",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 827997,
+            "name": "Section #8",
+            "items": [
+                {
+                    "id": 610911,
+                    "name": "Item 801",
+                    "price": 19.9,
+                    "description": "Awesome Item #801",
+                    "picture": ""
+                },
+                {
+                    "id": 115244,
+                    "name": "Item 802",
+                    "price": 34.4,
+                    "description": "Awesome Item #802",
+                    "picture": ""
+                },
+                {
+                    "id": 894856,
+                    "name": "Item 803",
+                    "price": 27.5,
+                    "description": "Awesome Item #803",
+                    "picture": ""
+                },
+                {
+                    "id": 147130,
+                    "name": "Item 804",
+                    "price": 15.5,
+                    "description": "Awesome Item #804",
+                    "picture": ""
+                },
+                {
+                    "id": 128289,
+                    "name": "Item 805",
+                    "price": 40,
+                    "description": "Awesome Item #805",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 674021,
+            "name": "Section #9",
+            "items": [
+                {
+                    "id": 965736,
+                    "name": "Item 901",
+                    "price": 35.3,
+                    "description": "Awesome Item #901",
+                    "picture": ""
+                },
+                {
+                    "id": 569218,
+                    "name": "Item 902",
+                    "price": 20.6,
+                    "description": "Awesome Item #902",
+                    "picture": ""
+                },
+                {
+                    "id": 825610,
+                    "name": "Item 903",
+                    "price": 25.9,
+                    "description": "Awesome Item #903",
+                    "picture": ""
+                },
+                {
+                    "id": 269018,
+                    "name": "Item 904",
+                    "price": 16.7,
+                    "description": "Awesome Item #904",
+                    "picture": ""
+                },
+                {
+                    "id": 701750,
+                    "name": "Item 905",
+                    "price": 31,
+                    "description": "Awesome Item #905",
+                    "picture": ""
+                },
+                {
+                    "id": 876695,
+                    "name": "Item 906",
+                    "price": 37.4,
+                    "description": "Awesome Item #906",
+                    "picture": ""
+                },
+                {
+                    "id": 304454,
+                    "name": "Item 907",
+                    "price": 11.4,
+                    "description": "Awesome Item #907",
+                    "picture": ""
+                }
+            ]
+        }
+    ],
+    "rating": {
+        "average": 4.56,
+        "star1": 70,
+        "star2": 49,
+        "star3": 75,
+        "star4": 204,
+        "star5": 1370
+    },
+    "status": "open",
+    "openingTimes": [
+        {
+            "start": "09:30",
+            "end": "14:45"
+        },
+        {
+            "start": "18:30",
+            "end": "21:45"
+        }
+    ],
+    "minOrderValue": 15,
+    "delivery": {
+        "status": "delivers",
+        "fee": {
+            "threshold": 0,
+            "amount": 0,
+            "applyAlways": true
+        }
+    },
+    "paymentMethods": [
+        {
+            "id": "0",
+            "name": "cash"
+        },
+        {
+            "id": "1",
+            "name": "paypal"
+        },
+        {
+            "id": "2",
+            "name": "credit"
+        },
+        {
+            "id": "3",
+            "name": "debit"
+        },
+        {
+            "id": "4",
+            "name": "paypal_fastlane"
+        }
+    ],
+    "address": {
+        "citySlug": "berlin",
+        "zipcodeSlug": "10785",
+        "streetName": "Potsdamer Straße",
+        "zipcode": "10785",
+        "phone": "+123412356",
+        "city": "Berlin",
+        "district": "Mitte",
+        "streetNumber": "123",
+        "country": "DE",
+        "districtSlug": "mitte",
+        "longitude": 13.36298,
+        "latitude": 52.50064,
+        "state": ""
+    },
+    "timezone": "Europe/Berlin",
+    "popularItemSection": {
+        "id": "popular_items",
+        "description": "",
+        "imageUrl": "https://images.deliveryhero.io/image/lieferheld.de/restaurant_default_cuisine_header/doner/9.jpg",
+        "name": "popular_items",
+        "items": []
+    }
+}

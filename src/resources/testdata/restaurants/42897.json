@@ -1,0 +1,270 @@
+{
+    "info": {
+        "name": "Lawrence",
+        "logoUri": "https://static-files.pizza.de/media/restaurant_logos/510818_Lawrence_logo_9252d826d4ea11e7a882f8bc120831c0.jpg",
+        "tags": [
+            "delivery_home",
+            "delivery_pickup",
+            "coupon",
+            "online_payment",
+            "accepts_cash"
+        ],
+        "categories": [
+            "pizza-pasta",
+            "schnitzel-steaks",
+            "vegetarisch"
+        ]
+    },
+    "general": {
+        "owner": "Herr Superman",
+        "managingDirectors": "",
+        "companyName": "Super Company",
+        "description": "",
+        "invoiceAddress": "Potsdamer Straße, 10785 Berlin"
+    },
+    "offers": {},
+    "sections": [
+        {
+            "id": 716323,
+            "name": "Section #1",
+            "items": [
+                {
+                    "id": 700794,
+                    "name": "Item 101",
+                    "price": 30.6,
+                    "description": "Awesome Item #101",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 92877,
+            "name": "Section #2",
+            "items": [
+                {
+                    "id": 472622,
+                    "name": "Item 201",
+                    "price": 29.3,
+                    "description": "Awesome Item #201",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 586808,
+            "name": "Section #3",
+            "items": [
+                {
+                    "id": 512980,
+                    "name": "Item 301",
+                    "price": 12.8,
+                    "description": "Awesome Item #301",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 281162,
+            "name": "Section #4",
+            "items": [
+                {
+                    "id": 74110,
+                    "name": "Item 401",
+                    "price": 23.3,
+                    "description": "Awesome Item #401",
+                    "picture": ""
+                },
+                {
+                    "id": 1574,
+                    "name": "Item 402",
+                    "price": 13.8,
+                    "description": "Awesome Item #402",
+                    "picture": ""
+                },
+                {
+                    "id": 543646,
+                    "name": "Item 403",
+                    "price": 21.9,
+                    "description": "Awesome Item #403",
+                    "picture": ""
+                },
+                {
+                    "id": 65367,
+                    "name": "Item 404",
+                    "price": 17.9,
+                    "description": "Awesome Item #404",
+                    "picture": ""
+                },
+                {
+                    "id": 576099,
+                    "name": "Item 405",
+                    "price": 30.2,
+                    "description": "Awesome Item #405",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 277583,
+            "name": "Section #5",
+            "items": [
+                {
+                    "id": 452388,
+                    "name": "Item 501",
+                    "price": 13,
+                    "description": "Awesome Item #501",
+                    "picture": ""
+                },
+                {
+                    "id": 57600,
+                    "name": "Item 502",
+                    "price": 30,
+                    "description": "Awesome Item #502",
+                    "picture": ""
+                },
+                {
+                    "id": 160025,
+                    "name": "Item 503",
+                    "price": 25.1,
+                    "description": "Awesome Item #503",
+                    "picture": ""
+                },
+                {
+                    "id": 359499,
+                    "name": "Item 504",
+                    "price": 33,
+                    "description": "Awesome Item #504",
+                    "picture": ""
+                },
+                {
+                    "id": 381811,
+                    "name": "Item 505",
+                    "price": 19.6,
+                    "description": "Awesome Item #505",
+                    "picture": ""
+                },
+                {
+                    "id": 431651,
+                    "name": "Item 506",
+                    "price": 19.5,
+                    "description": "Awesome Item #506",
+                    "picture": ""
+                }
+            ]
+        },
+        {
+            "id": 686961,
+            "name": "Section #6",
+            "items": [
+                {
+                    "id": 339900,
+                    "name": "Item 601",
+                    "price": 27.7,
+                    "description": "Awesome Item #601",
+                    "picture": ""
+                },
+                {
+                    "id": 782839,
+                    "name": "Item 602",
+                    "price": 27.3,
+                    "description": "Awesome Item #602",
+                    "picture": ""
+                },
+                {
+                    "id": 359925,
+                    "name": "Item 603",
+                    "price": 10.8,
+                    "description": "Awesome Item #603",
+                    "picture": ""
+                },
+                {
+                    "id": 546746,
+                    "name": "Item 604",
+                    "price": 32.3,
+                    "description": "Awesome Item #604",
+                    "picture": ""
+                },
+                {
+                    "id": 172903,
+                    "name": "Item 605",
+                    "price": 32.4,
+                    "description": "Awesome Item #605",
+                    "picture": ""
+                }
+            ]
+        }
+    ],
+    "rating": {
+        "average": 4.56,
+        "star1": 70,
+        "star2": 49,
+        "star3": 75,
+        "star4": 204,
+        "star5": 1370
+    },
+    "status": "open",
+    "openingTimes": [
+        {
+            "start": "09:30",
+            "end": "14:45"
+        },
+        {
+            "start": "18:30",
+            "end": "21:45"
+        }
+    ],
+    "minOrderValue": 15,
+    "delivery": {
+        "status": "delivers",
+        "fee": {
+            "threshold": 0,
+            "amount": 0,
+            "applyAlways": true
+        }
+    },
+    "paymentMethods": [
+        {
+            "id": "0",
+            "name": "cash"
+        },
+        {
+            "id": "1",
+            "name": "paypal"
+        },
+        {
+            "id": "2",
+            "name": "credit"
+        },
+        {
+            "id": "3",
+            "name": "debit"
+        },
+        {
+            "id": "4",
+            "name": "paypal_fastlane"
+        }
+    ],
+    "address": {
+        "citySlug": "berlin",
+        "zipcodeSlug": "10785",
+        "streetName": "Potsdamer Straße",
+        "zipcode": "10785",
+        "phone": "+123412356",
+        "city": "Berlin",
+        "district": "Mitte",
+        "streetNumber": "123",
+        "country": "DE",
+        "districtSlug": "mitte",
+        "longitude": 13.36298,
+        "latitude": 52.50064,
+        "state": ""
+    },
+    "timezone": "Europe/Berlin",
+    "popularItemSection": {
+        "id": "popular_items",
+        "description": "",
+        "imageUrl": "https://images.deliveryhero.io/image/lieferheld.de/restaurant_default_cuisine_header/doner/9.jpg",
+        "name": "popular_items",
+        "items": []
+    }
+}
